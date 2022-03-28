@@ -17,7 +17,7 @@ public class StringUtils {
     }
 
     private static boolean isPositive(String str){
-        return str.charAt(0) != '-';
+        return str.charAt(0) != '-' && !str.equals("0");
     }
 }
 
