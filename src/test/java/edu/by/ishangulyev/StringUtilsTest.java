@@ -1,5 +1,6 @@
 package edu.by.ishangulyev;
 
+import com.epam.lab.util.StringUtils;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 

@@ -1,4 +1,4 @@
-package edu.by.ishangulyev;
+package com.epam.lab.util;
 
 public class StringUtils {
     public static boolean isPositiveNumber(String number){
